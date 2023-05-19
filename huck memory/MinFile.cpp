@@ -1,29 +1,13 @@
 #include"Library.h"
  
 void HuckMmeory();
-class Foo 
-{
 
-public:
-	char cha;
-	char chb;
-	short sha;
-	int ina;
-};
+
 int main() 
 {
 	
-	
-	/*for (auto i = 1;i < 600024;i++) 
-	{
-		if (auto p=malloc(i)) 
-		{
-			
-			free(p);
-		}
-	}*/
-	cout << sizeof(Foo) << endl;
-	return 0;
+HuchMemory();
+return 0;
 }
 void HuckMemory() 
 {
