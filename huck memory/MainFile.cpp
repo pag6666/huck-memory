@@ -1,6 +1,6 @@
 #include"Library.h"
  
-void HuckMmeory();
+void HuckMemory();
 
 
 int main() 
